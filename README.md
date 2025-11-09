@@ -4,7 +4,7 @@
 
 # Features
 
-- [ ] PCIe 5.0
+- [ ] PCIe 6.0
 - [ ] Memory bus for 512bit
 - [ ] Resolution - 8k(7680×4320)
 - [ ] LHR enabled
